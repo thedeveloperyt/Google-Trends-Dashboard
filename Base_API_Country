@@ -8,12 +8,12 @@ let
     queryParams = [
         
         engine = "google_trends",
-        q = Keywords,
+        q = "Power BI,The Developer,Data Analyst,Jobs",
         data_type = "GEO_MAP",
           date = "today 5-y",
           tz="-330",
           
-        api_key = Key
+        api_key = "Peste your Key here"
     ],
     
     // Combine the endpoint and parameters
